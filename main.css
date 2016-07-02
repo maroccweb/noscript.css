@@ -1270,17 +1270,16 @@ input, textarea, select {
 				cursor: default;
 			}
 
-				#nav a {
-					font-size: 2.5em;
-					margin: 0 0.25em 0 0.25em;
-					opacity: 0.35;
-					outline: 0;
-					-moz-transition: opacity .25s ease-in-out;
-					-webkit-transition: opacity .25s ease-in-out;
-					-ms-transition: opacity .25s ease-in-out;
-					transition: opacity .25s ease-in-out;
-				}
-
+#nav a {
+    font-size: 1.5em;
+    margin: 0 1.25em 0 0.25em;
+    opacity: 0.35;
+    outline: 0;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+    -ms-transition: opacity .25s ease-in-out;
+    transition: opacity .25s ease-in-out;
+}
 					#nav a:before {
 						font-size: 0.8em;
 					}
