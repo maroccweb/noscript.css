@@ -1,13 +1,8 @@
-/*
-	Astral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Basic */
 
 	body {
-		background-image: url("images/bg.jpg");
+		background-image: url("https://3.bp.blogspot.com/-LtHKEbfM-eE/V3fFdaC_QBI/AAAAAAAAB0E/Fk14UwLfn-Y995OFokkbVlwwxpgSNRggQCLcB/s320/bg.jpg");
 		background-size: cover;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 	}
