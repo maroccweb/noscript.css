@@ -1,5 +1,5 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
-@import url("font-awesome.min.css");
+@import url("https://rawgit.com/maroccweb/noscript.css/master/font-awesome.min.css");
 /* Reset */
 .aurmarouan {
     margin: 15px auto;
@@ -9,7 +9,7 @@
     color: #fff;
     font-size: 20px;
     padding: 9px 80px 9px 80px;
-    background-image: url("images/overlay.png"), url("images/bg.jpg");
+    background-image: url("https://2.bp.blogspot.com/-_kgY65Lj5oA/V3fFdVj829I/AAAAAAAAB0A/bdprUluKvzo5oill16T25uQOFrGYLCDcgCLcB/s1600/overlay.png"), url("https://3.bp.blogspot.com/-LtHKEbfM-eE/V3fFdaC_QBI/AAAAAAAAB0E/Fk14UwLfn-Y995OFokkbVlwwxpgSNRggQCLcB/s320/bg.jpg");
     border: 1px solid #eab3a2;
     border-radius: 14px;
 }
@@ -26,7 +26,7 @@
     color: #fff;
     font-size: 20px;
     padding: 10px 80px 7px 80px;
-    background-image: url("images/overlay.png"), url("images/bg.jpg");
+    background-image: url("https://2.bp.blogspot.com/-_kgY65Lj5oA/V3fFdVj829I/AAAAAAAAB0A/bdprUluKvzo5oill16T25uQOFrGYLCDcgCLcB/s1600/overlay.png"), url("https://3.bp.blogspot.com/-LtHKEbfM-eE/V3fFdaC_QBI/AAAAAAAAB0E/Fk14UwLfn-Y995OFokkbVlwwxpgSNRggQCLcB/s320/bg.jpg");
     border: 1px solid #eab3a2;
     border-radius: 14px;
     text-align: center;
@@ -780,7 +780,7 @@
 /* Basic */
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("https://2.bp.blogspot.com/-_kgY65Lj5oA/V3fFdVj829I/AAAAAAAAB0A/bdprUluKvzo5oill16T25uQOFrGYLCDcgCLcB/s1600/overlay.png"), url("https://3.bp.blogspot.com/-LtHKEbfM-eE/V3fFdaC_QBI/AAAAAAAAB0E/Fk14UwLfn-Y995OFokkbVlwwxpgSNRggQCLcB/s320/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -1435,7 +1435,7 @@ height: 20em;
     margin-top: 5%;
     font-size: 40px;
     padding: 10px 64px 10px 64px;
-    background-image: url("images/overlay.png"), url("images/bg.jpg");
+    background-image: url("https://2.bp.blogspot.com/-_kgY65Lj5oA/V3fFdVj829I/AAAAAAAAB0A/bdprUluKvzo5oill16T25uQOFrGYLCDcgCLcB/s1600/overlay.png"), url("https://3.bp.blogspot.com/-LtHKEbfM-eE/V3fFdaC_QBI/AAAAAAAAB0E/Fk14UwLfn-Y995OFokkbVlwwxpgSNRggQCLcB/s320/bg.jpg");
     color: #f8f8f8;
 }
 		                     			}
@@ -1446,7 +1446,7 @@ height: 20em;
     margin-top: 19%;
     width: 56%;
     text-align: right;
-    background-image: url("images/overlay.png"), url("images/bg.jpg");
+    background-image: url("https://2.bp.blogspot.com/-_kgY65Lj5oA/V3fFdVj829I/AAAAAAAAB0A/bdprUluKvzo5oill16T25uQOFrGYLCDcgCLcB/s1600/overlay.png"), url("https://3.bp.blogspot.com/-LtHKEbfM-eE/V3fFdaC_QBI/AAAAAAAAB0E/Fk14UwLfn-Y995OFokkbVlwwxpgSNRggQCLcB/s320/bg.jpg");
     padding: 10px 9px 0px 0px;
     color: #fff;
     height: 58%;
