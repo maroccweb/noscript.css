@@ -1377,33 +1377,32 @@ height: 20em;
     text-decoration: none;
     width: 0%;
 }
-
-					#me .pic img {
-						position: relative;
-						display: block;
-						height: 100%;
-					}
-
-					#me .pic .arrow {
-						display: block;
-						position: absolute;
-						top: 50%;
-						margin-top: -1.375em;
-						width: 2.75em;
-						height: 2.75em;
-						background: #000;
-						background: rgba(0, 0, 0, 0.75);
-						color: #ffffff;
-						text-align: center;
-						line-height: 2.75em;
-						font-size: 1.5em;
-						z-index: 1;
-						-moz-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-						-webkit-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-						-ms-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-						transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-					}
-
+#me .pic img {
+    position: relative;
+    display: block;
+    height: 100%;
+    margin-right: 25em;
+}
+#me .pic .arrow {
+    display: block;
+    position: absolute;
+    top: 50%;
+    margin-top: -1.375em;
+    width: 2.75em;
+    height: 2.75em;
+    background: #000;
+    background: rgba(0, 0, 0, 0.75);
+    color: #ffffff;
+    text-align: center;
+    line-height: 2.75em;
+    font-size: 1.5em;
+    z-index: 1;
+    -moz-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
+    -webkit-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
+    -ms-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
+    transition: width .15s ease-in-out, padding-right .15s ease-in-out;
+    margin-right: 27.4em;
+}
 						#me .pic .arrow:before {
 							position: relative;
 							padding-right: 0;
