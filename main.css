@@ -1414,7 +1414,7 @@ height: 20em;
 							text-indent: -9999px;
 						}
 
-					#me .pic:hover .arrow {
+					#me .pic .arrow:hover{
 						width: 3em;
 						padding-right: 0.25em;
 					}
